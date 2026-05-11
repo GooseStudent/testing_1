@@ -1,1 +1,1 @@
-[![CI](https://github.com/GooseStudent/health-sort/actions/workflows/tests.yml/badge.svg)](https://github.com/GooseStudent/health-sort/actions/workflows/tests.yml)
+[![CI](https://github.com/GooseStudent/testing_1/actions/workflows/tests.yml/badge.svg)](https://github.com/GooseStudent/testing_1/actions/workflows/tests.yml)
